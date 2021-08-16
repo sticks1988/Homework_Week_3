@@ -1,4 +1,4 @@
-// Assignment Code
+// Assignment Code - added variables
 var generateBtn = document.querySelector("#generate");
 
 var number = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
